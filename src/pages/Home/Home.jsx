@@ -1,9 +1,12 @@
 import React from 'react';
+import Banner from './Banner';
+import Count from './Count';
 
 const Home = () => {
     return (
         <div>
-           <h1>AAAAAAAAAAAAAAAA</h1>
+           <Banner></Banner>
+           <Count></Count>
         </div>
     );
 };
