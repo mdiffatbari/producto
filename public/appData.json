@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image": "https://i.ibb.co/3s9Qh1X/spotify.png",
+    "image": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/spotify.svg",
     "title": "Spotify",
     "companyName": "Spotify Ltd.",
     "description": "Stream millions of songs and podcasts anytime, anywhere.",
@@ -19,7 +19,7 @@
   },
   {
     "id": 2,
-    "image": "https://i.ibb.co/6yQ4Z7T/netflix.png",
+    "image": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/netflix.svg",
     "title": "Netflix",
     "companyName": "Netflix Inc.",
     "description": "Watch movies, series, and exclusive originals.",
@@ -37,7 +37,7 @@
   },
   {
     "id": 3,
-    "image": "https://i.ibb.co/t3LxW9H/facebook.png",
+    "image": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/facebook.svg",
     "title": "Facebook",
     "companyName": "Meta",
     "description": "Connect with friends, family, and communities.",
@@ -55,7 +55,7 @@
   },
   {
     "id": 4,
-    "image": "https://i.ibb.co/xYtqkJf/instagram.png",
+    "image": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/instagram.svg",
     "title": "Instagram",
     "companyName": "Meta",
     "description": "Share photos and videos with your followers.",
@@ -73,7 +73,7 @@
   },
   {
     "id": 5,
-    "image": "https://i.ibb.co/FW3dF1C/whatsapp.png",
+    "image": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/whatsapp.svg",
     "title": "WhatsApp",
     "companyName": "Meta",
     "description": "Simple and secure messaging app.",
@@ -91,7 +91,7 @@
   },
   {
     "id": 6,
-    "image": "https://i.ibb.co/WGQz8vC/twitter.png",
+    "image": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/x.svg",
     "title": "Twitter",
     "companyName": "X Corp",
     "description": "Join the conversation and stay updated.",
@@ -109,7 +109,7 @@
   },
   {
     "id": 7,
-    "image": "https://i.ibb.co/4pDNDkL/youtube.png",
+    "image": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/youtube.svg",
     "title": "YouTube",
     "companyName": "Google LLC",
     "description": "Watch and share videos worldwide.",
@@ -127,7 +127,7 @@
   },
   {
     "id": 8,
-    "image": "https://i.ibb.co/fG7F1Yr/zoom.png",
+    "image": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/zoom.svg",
     "title": "Zoom",
     "companyName": "Zoom Video",
     "description": "Video conferencing for meetings and classes.",
@@ -145,7 +145,7 @@
   },
   {
     "id": 9,
-    "image": "https://i.ibb.co/T2Jq6WQ/uber.png",
+    "image": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/uber.svg",
     "title": "Uber",
     "companyName": "Uber Inc.",
     "description": "Book rides easily and travel safely.",
@@ -163,7 +163,7 @@
   },
   {
     "id": 10,
-    "image": "https://i.ibb.co/YpJ0g7T/googlemaps.png",
+    "image": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/googlemaps.svg",
     "title": "Google Maps",
     "companyName": "Google LLC",
     "description": "Navigate and explore with real-time GPS.",
@@ -181,7 +181,7 @@
   },
   {
     "id": 11,
-    "image": "https://i.ibb.co/7b8zQ0H/telegram.png",
+    "image": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/telegram.svg",
     "title": "Telegram",
     "companyName": "Telegram FZ",
     "description": "Fast and secure messaging platform.",
@@ -199,7 +199,7 @@
   },
   {
     "id": 12,
-    "image": "https://i.ibb.co/zx1H3yY/amazon.png",
+    "image": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/amazon.svg",
     "title": "Amazon",
     "companyName": "Amazon Inc.",
     "description": "Shop millions of products online.",
@@ -217,7 +217,7 @@
   },
   {
     "id": 13,
-    "image": "https://i.ibb.co/yV7LZ1R/tiktok.png",
+    "image": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/tiktok.svg",
     "title": "TikTok",
     "companyName": "ByteDance",
     "description": "Create and share short videos.",
@@ -235,7 +235,7 @@
   },
   {
     "id": 14,
-    "image": "https://i.ibb.co/f4QxS9h/discord.png",
+    "image": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/discord.svg",
     "title": "Discord",
     "companyName": "Discord Inc.",
     "description": "Chat and hang out with communities.",
@@ -253,7 +253,7 @@
   },
   {
     "id": 15,
-    "image": "https://i.ibb.co/2W0vP6R/pinterest.png",
+    "image": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/pinterest.svg",
     "title": "Pinterest",
     "companyName": "Pinterest Inc.",
     "description": "Discover ideas and inspiration.",
@@ -271,7 +271,7 @@
   },
   {
     "id": 16,
-    "image": "https://i.ibb.co/9Y3K7cT/snapchat.png",
+    "image": "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/snapchat.svg",
     "title": "Snapchat",
     "companyName": "Snap Inc.",
     "description": "Share moments with friends instantly.",
