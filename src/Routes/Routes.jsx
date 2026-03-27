@@ -16,6 +16,7 @@ export const router = createBrowserRouter([
         {
             index: true,
             path: "/",
+            loader: () => fetch("appData.json"),
             Component: Home
         },
         {
@@ -26,8 +27,7 @@ export const router = createBrowserRouter([
         {
           path: "/apps/:id",
           Component: AppDetails,
-          loader: () => fetch("appData.json"),
-          errorElement: <AppError />
+          loader: () => fetch("appData.json")
         },
         {
           path:"/installation",
